@@ -1,2 +1,6 @@
-# post_graduation_projects
-Projects done in Post Graduation of AIML -  The University of Texas at Austin
+# Postgraduate Program in Artificial Intelligence & Machine Learning – Business Applications
+##The University of Texas at Austin | 2025 – 2026
+
+1. Exploratory Data Analysis
+2. Classification Problem
+3. Advanced Classification Problem
